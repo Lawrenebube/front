@@ -10,7 +10,7 @@ body{
     border-radius: 7px;
     max-width:1440px;
     }
-.parent{
+.card{
     text-align: center;
     background-color: hsl(0, 0%, 100%);
     margin: auto;
@@ -24,7 +24,7 @@ body{
    border-radius: 10px;     
    }
  
-.child{
+.card-scan{
     font-size: 15px;
     }
 h4{
